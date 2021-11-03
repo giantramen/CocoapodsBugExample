@@ -1,0 +1,21 @@
+PODS:
+  - CoreDataPodSample (0.0.7)
+
+DEPENDENCIES:
+  - CoreDataPodSample (from `https://github.com/Ashton-W/CoreDataPodSample.git`)
+
+EXTERNAL SOURCES:
+  CoreDataPodSample:
+    :git: https://github.com/Ashton-W/CoreDataPodSample.git
+
+CHECKOUT OPTIONS:
+  CoreDataPodSample:
+    :commit: fa1230bfcac1504392c2f00c6554e3ae041dbd9b
+    :git: https://github.com/Ashton-W/CoreDataPodSample.git
+
+SPEC CHECKSUMS:
+  CoreDataPodSample: ae9461f0e1b4d9023f48ff15257faea744feeaa1
+
+PODFILE CHECKSUM: 007a896fe751458cbadb52cac07ea67e3600bf63
+
+COCOAPODS: 1.11.2

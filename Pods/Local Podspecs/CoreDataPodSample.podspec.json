@@ -1,0 +1,28 @@
+{
+  "name": "CoreDataPodSample",
+  "version": "0.0.7",
+  "summary": "A boring description of CoreDataPodSample.",
+  "description": "A longer boring description of CoreDataPodSample in Markdown format.\n\n* This is to test versioned CoreData models in Pods?",
+  "homepage": "https://github.com/Ashton-W/CoreDataPodSample",
+  "license": "MIT",
+  "authors": "Ashton-W",
+  "platforms": {
+    "ios": null
+  },
+  "source": {
+    "git": "https://github.com/Ashton-W/CoreDataPodSample.git",
+    "tag": "0.0.7"
+  },
+  "source_files": [
+    "CoreDataPodSample/Classes",
+    "CoreDataPodSample/Classes/CoreDataPodSample.xcdatamodeld",
+    "CoreDataPodSample/Classes/CoreDataPodSample.xcdatamodeld/*.xcdatamodel"
+  ],
+  "resources": [
+    "CoreDataPodSample/Classes/CoreDataPodSample.xcdatamodeld",
+    "CoreDataPodSample/Classes/CoreDataPodSample.xcdatamodeld/*.xcdatamodel"
+  ],
+  "preserve_paths": "CoreDataPodSample/Classes/CoreDataPodSample.xcdatamodeld",
+  "frameworks": "CoreData",
+  "requires_arc": true
+}

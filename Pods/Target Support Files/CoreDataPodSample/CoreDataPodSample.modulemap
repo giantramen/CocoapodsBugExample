@@ -1,0 +1,6 @@
+framework module CoreDataPodSample {
+  umbrella header "CoreDataPodSample-umbrella.h"
+
+  export *
+  module * { export * }
+}
